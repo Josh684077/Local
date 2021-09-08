@@ -1,0 +1,5 @@
+Student name: Joshua Andrea
+
+Student number: 684077
+
+Student class: IT1B
